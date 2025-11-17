@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<node>
+  <kremala>
+    <krem>
+      <aa>01</aa>
+      <keno>The title of the depicted engraving of  Peter Heinrich Lambert von Hess is «Kanaris sets ships on fire around ______».</keno>
+      <plires>The title of the depicted engraving of  Peter Heinrich Lambert von Hess is «Kanaris sets ships on fire around Chios».</plires>
+      <lexi>CHIOS</lexi>
+      <infos>Kanaris sets ships on fire around Chios.@Peter Heinrich Lambert von Hess. Engraving.</infos>
+    </krem>
+    <krem>
+      <aa>02</aa>
+      <keno>The title of the depicted engraving of Peter Heinrich Lambert von Hess is «______ Mavrokordatos saves Missolonghi fighting bravely».</keno>
+      <plires>The title of the depicted engraving of Peter Heinrich Lambert von Hess is «Alexandros Mavrokordatos saves Missolonghi fighting bravely».</plires>
+      <lexi>ALEXANDROS</lexi>
+      <infos>Alexandros Mavrokordatos saves Missolonghi fighting bravely.@Peter Heinrich Lambert von Hess. Engraving.</infos>
+    </krem>
+    <krem>
+      <aa>03</aa>
+      <keno>Τhe Memorandum of Greece (Paris 1825) is a work of the French writer, politician and ______ Chateaubriand in favour of the Greek cause.</keno>
+      <plires>Τhe Memorandum of Greece (Paris 1825) is a work of the French writer, politician and philhellene Chateaubriand in favour of the Greek cause.</plires>
+      <lexi>PHILHELLENE</lexi>
+      <infos>Portrait of Chateaubriand, ca. 1809@Anne-Louis Girodet de Roussy-Trioson (1767-1824). Oil, 120 × 97 cm. Hellenic Parliament Art Collection, inv. no. 296.</infos>
+    </krem>
+    <krem>
+      <aa>04</aa>
+      <keno>The depicted coloured lithograph of Sotirios Christidis (1858-1940) portrays the death of Markos Botsaris in the camp of the Turks at ______, on 8 August 1823.</keno>
+      <plires>The depicted coloured lithograph of Sotirios Christidis (1858-1940) portrays the death of Markos Botsaris in the camp of the Turks at Karpenissi, on 8 August 1823.</plires>
+      <lexi>KARPENISSI</lexi>
+      <infos>The death of Markos Botsaris in the camp of the Turks at Karpenissi@Sotirios Christidis (1858-1940). Coloured lithograph.</infos>
+    </krem>
+    <krem>
+      <aa>05</aa>
+      <keno>Konstantinos Kanaris, after the ______ of the Turkish flagship, he is also known as bourlotieris.</keno>
+      <plires>Konstantinos Kanaris, after the burning of the Turkish flagship, he is also known as bourlotieris.</plires>
+      <lexi>BURNING</lexi>
+      <infos>Portrait of Kanaris</infos>
+    </krem>
+    <krem>
+      <aa>06</aa>
+      <keno>In the depicted document from the Archives of the Greek Regeneration, Kolokotronis is paralleled to ______ for his victory at Dervenakia, on 26 July 1822.</keno>
+      <plires>In the depicted document from the Archives of the Greek Regeneration, Kolokotronis is paralleled to Leonidas for his victory at Dervenakia, on 26 July 1822.</plires>
+      <lexi>LEONIDAS</lexi>
+      <infos>Excerpt from a letter of P. Mavromichalis, P. Krevvatas and Ch. Peroukas to Th. Kolokotronis (28 July 1822)@Archives of the Greek Regeneration, vol. 15ab, no. 48, p. 41.</infos>
+    </krem>
+    <krem>
+      <aa>07</aa>
+      <keno>In March of 1822 the massacre of Chios by the ______ troops, shocks the European public opinion.</keno>
+      <plires>In March of 1822 the massacre of Chios by the Ottoman troops, shocks the European public opinion.</plires>
+      <lexi>OTTOMAN</lexi>
+      <infos>Document of the Ministry of Internal Affairs to the President of the Executive about the offering of aid to the Chian refugees (Corinth, 20 April 1822).</infos>
+    </krem>
+    <krem>
+      <aa>08</aa>
+      <keno>In September 1822 Greek ships under Andreas ______ confront victoriously the Ottoman fleet near Spetses.</keno>
+      <plires>In September 1822 Greek ships under Andreas Miaoulis confront victoriously the Ottoman fleet near Spetses.</plires>
+      <lexi>MIAOULIS</lexi>
+      <infos>Miaoulis captures a Turkish ship, ca. 1826-30@Factory at Montereau. Faience plate, diameter 21,8 cm.</infos>
+    </krem>
+    <krem>
+      <aa>09</aa>
+      <keno>In early August 1823, the English romantic poet and fervent philhellene Lord Byron arrived aboard a ship in ______ of Kefalonia, as representative of the Philhellenic Committee of London.</keno>
+      <plires>In early August 1823, the English romantic poet and fervent philhellene Lord Byron arrived aboard a ship in Argostoli of Kefalonia, as representative of the Philhellenic Committee of London.</plires>
+      <lexi>ARGOSTOLI</lexi>
+      <infos>Portrait of Lord Byron</infos>
+    </krem>
+    <krem>
+      <aa>10</aa>
+      <keno>In 1823 Dionysios Solomos writes the Hymn to Liberty, which was finally published in 1825 in ______.</keno>
+      <plires>In 1823 Dionysios Solomos writes the Hymn to Liberty, which was finally published in 1825 in Missolonghi.</plires>
+      <lexi>MISSOLONGHI</lexi>
+      <infos>First stanzas of the Hymn to Liberty.</infos>
+    </krem>
+    <krem>
+      <aa>11</aa>
+      <keno>In 1822, Minister of Foreign ______ in Great Britain becomes George Canning, who stood firm against the Holy Alliance  and contributed to the shift of the British external policy in favour of the Greek cause.</keno>
+      <plires>In 1822, Minister of Foreign Affairs in Great Britain becomes George Canning, who stood firm against the Holy Alliance  and contributed to the shift of the British external policy in favour of the Greek cause.</plires>
+      <lexi>AFFAIRS</lexi>
+      <infos>Portrait of George Canning</infos>
+    </krem>
+    <krem>
+      <aa>12</aa>
+      <keno>In March 1823 the Philhellenic ______ of London is founded, aiming at the actual reinforcement of the Greek Revolution, by disbursing capitals, sending European volunteers with combat experience and ammunition and later on by making loan agreements.</keno>
+      <plires>In March 1823 the Philhellenic Committee of London is founded, aiming at the actual reinforcement of the Greek Revolution, by disbursing capitals, sending European volunteers with combat experience and ammunition and later on by making loan agreements.</plires>
+      <lexi>COMMITTEE</lexi>
+      <infos>Young Philhellene in Greek costume in Athens, 1832@Alexandre-Jean Dubois-Drahonet (1791-1834)@Oil on cardboard 35 × 25,5 cm. Hellenic Parliament Art Collection, inv. no. 630.</infos>
+    </krem>
+    <krem>
+      <aa>13</aa>
+      <keno>The Proclamation of the Inhabitants of Missolonghi, which describes the secret plan of the heroic Exodus, which did not prove successful, is recorded by N. ______ in the Military Memoirs of the Revolution of the Greeks, 1821-1833.</keno>
+      <plires>The Proclamation of the Inhabitants of Missolonghi, which describes the secret plan of the heroic Exodus, which did not prove successful, is recorded by N. Kasomoulis in the Military Memoirs of the Revolution of the Greeks, 1821-1833.</plires>
+      <lexi>KASOMOULIS</lexi>
+      <infos>Scene from the siege of Missolonghi@Horace Vernet (1789-1863). Oil 26 × 40 cm. Varkarakis Collection, inv. no. 19.</infos>
+    </krem>
+    <krem>
+      <aa>14</aa>
+      <keno>In the night of the heroic ______ of Missolonghi, about 400 women, children and old men were gathered in Christos Kapsalis’ house. At the moment when the Turkish-Egyptians had surrounded the house and were ready to barge into it, the heroic Kapsalis threw a lit torch in the gunpowder.</keno>
+      <plires>In the night of the heroic Exodus of Missolonghi, about 400 women, children and old men were gathered in Christos Kapsalis’ house. At the moment when the Turkish-Egyptians had surrounded the house and were ready to barge into it, the heroic Kapsalis threw a lit torch in the gunpowder.</plires>
+      <lexi>EXODUS</lexi>
+      <infos>The last inhabitants of Missolonghi @A. Jaqueme. Oil 65 x 73 cm. Varkarakis Collection, inv. no. 4.</infos>
+    </krem>
+    <krem>
+      <aa>15</aa>
+      <keno>The ______ of the Guard of Missolonghi records musically the pain that the fall of Missolonghi caused on European level.</keno>
+      <plires>The March of the Guard of Missolonghi records musically the pain that the fall of Missolonghi caused on European level.</plires>
+      <lexi>MARCH</lexi>
+      <infos>March of the Guard of Missolonghi, ca. 1830@Joseph Ludwig von Armansperg. Musical score, Hellenic Parliament Art Collection, inv. no. 950.</infos>
+    </krem>
+    <krem>
+      <aa>16</aa>
+      <keno>A little before the fall of Missolonghi, the newspaper of the city, titled Greek Chronicles, published by the ______ philhellene Ioannis Iakovos Meyer, stopped its publication.</keno>
+      <plires>A little before the fall of Missolonghi, the newspaper of the city, titled Greek Chronicles, published by the Swiss philhellene Ioannis Iakovos Meyer, stopped its publication.</plires>
+      <lexi>SWISS</lexi>
+      <infos>Sheet of the newspaper GREEK CHRONICLES</infos>
+    </krem>
+    <krem>
+      <aa>17</aa>
+      <keno>The direct involvement of the Theodoros Kolokotronis in the ______ disputes turned him from a widely recognized personality to a controversial one, with faithful followers, but also sworn enemies.</keno>
+      <plires>The direct involvement of the Theodoros Kolokotronis in the civil disputes turned him from a widely recognized personality to a controversial one, with faithful followers, but also sworn enemies.</plires>
+      <lexi>CIVIL</lexi>
+      <infos>Kolokotronis leading his army to Nemea against Dramalis, 1900-1910@Anonymous. Coloured lithograph 54 x 69 cm. Hellenic Parliament Art Collection, inv. no. 577.</infos>
+    </krem>
+    <krem>
+      <aa>18</aa>
+      <keno>On 24 July 1825, in period when the Revolution was at risk of failure due to the civil dispute the famous Act of ______ was signed, through which Greece was placed under the protection of Great Britain.</keno>
+      <plires>On 24 July 1825, in period when the Revolution was at risk of failure due to the civil dispute the famous Act of Submission was signed, through which Greece was placed under the protection of Great Britain.</plires>
+      <lexi>SUBMISSION</lexi>
+      <infos>Alexandros Mavrokordatos led in 1825 the submission of «application for protection» or «Act of Submission» of the Greeks to Great Britain.</infos>
+    </krem>
+    <krem>
+      <aa>19</aa>
+      <keno>Markos Botsaris died a heroic death in the battle at ______ of Karpenisi, on 8-9 August 1823.</keno>
+      <plires>Markos Botsaris died a heroic death in the battle at Kafalovryso of Karpenisi, on 8-9 August 1823.</plires>
+      <lexi>KEFALOVRYSO</lexi>
+      <infos>The death of Markos Botsaris,  t.p.q. 1841@L. Gualtieri (?) Oil on canvas 55 × 69 cm. Hellenic Parliament Art Collection, inv. no. 824.</infos>
+    </krem>
+    쎐፸ɂ</kremala>
+</node>
